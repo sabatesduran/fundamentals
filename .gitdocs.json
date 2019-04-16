@@ -1,0 +1,16 @@
+{
+  "name": "Fundamentals of Javascript",
+  "root": "docs",
+  "logo": "logo.png",
+  "header_links": [{
+      "title": "Repo",
+      "href": "https://github.com/HackYourFuture/fundamentals",
+      "target": "_blank"
+    },
+    {
+      "title": "hackyourfuture.net",
+      "href": "https://www.hackyourfuture.net",
+      "target": "_blank"
+    }
+  ]
+}
